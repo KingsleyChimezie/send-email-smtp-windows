@@ -88,6 +88,4 @@ Independently from __GitHubGist__ if available.
 
 
 ## __References__ ##
-* Sending email with CDO   
-http://www.paulsadowski.com/wsh/cdo.htm  
-[ACCESSED: 27.03.2018]
+* Null
